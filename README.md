@@ -1,5 +1,8 @@
-# AI Toolkit by Ostris
+# # AI Model training toolkit - Origin: AI Toolkit by Ostris
 
+- Refer to my custom config I used from config/examples/train_lora_flux_my_photos_v1.yaml 
+
+## Below readme origins from Ostris.
 ## IMPORTANT NOTE - READ THIS
 This is my research repo. I do a lot of experiments in it and it is possible that I will break things.
 If something breaks, checkout an earlier commit. This repo can train a lot of things, and it is
